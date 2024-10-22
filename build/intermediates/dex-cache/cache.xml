@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Development\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\JUAN CAMILO\Documents\GitHub\Astrapp\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-d2c280bb33bf1aa44fcda7ba64a0c939c46e372c.jar" />
+    </item>
+    <item
+        jar="C:\Users\JUAN CAMILO\Documents\GitHub\Astrapp\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\JUAN CAMILO\Documents\GitHub\Astrapp\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-23643837c1679a11c66dd499423e083875c81eda.jar" />
+    </item>
+    <item
+        jar="C:\Users\JUAN CAMILO\Documents\GitHub\Astrapp\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\JUAN CAMILO\Documents\GitHub\Astrapp\app\build\intermediates\pre-dexed\debug\classes-a2e2c2c60d302230675eefbcb5a534887791c71a.jar" />
+    </item>
+    <item
+        jar="C:\Users\JUAN CAMILO\Documents\GitHub\Astrapp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\JUAN CAMILO\Documents\GitHub\Astrapp\app\build\intermediates\pre-dexed\debug\classes-6999485185c59c671c1eb4e880932a9ad2347342.jar" />
+    </item>
+
+</items>

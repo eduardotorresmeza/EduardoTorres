@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="fill_parent"
+    android:layout_height="match_parent">
+
+    <ImageButton
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/imageButton"
+        android:layout_gravity="bottom"
+        android:src="@drawable/paleta_color_rojo"
+        android:background="@null"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp" />
+
+    <ImageButton
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/imageButton2"
+        android:layout_gravity="bottom"
+        android:src="@drawable/paleta_color_naranja"
+        android:background="@null"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp" />
+
+    <ImageButton
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/imageButton3"
+        android:layout_gravity="bottom"
+        android:src="@drawable/paleta_color_amarillo"
+        android:background="@null"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp" />
+
+    <ImageButton
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/imageButton4"
+        android:layout_gravity="bottom"
+        android:src="@drawable/paleta_color_verde"
+        android:background="@null"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp" />
+
+    <ImageButton
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/imageButton5"
+        android:layout_gravity="bottom"
+        android:src="@drawable/paleta_color_azul"
+        android:background="@null"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp" />
+
+    <ImageButton
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/imageButton6"
+        android:layout_gravity="bottom"
+        android:src="@drawable/paleta_color_violeta"
+        android:scaleType="fitXY"
+        android:background="@null"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp" />
+
+    <ImageButton
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/imageButton7"
+        android:layout_gravity="bottom"
+        android:background="@null"
+        android:src="@drawable/paleta_color_gris"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp" />
+</LinearLayout>
